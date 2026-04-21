@@ -1,7 +1,7 @@
 ## Hi I'm Md Rahim Rahman 
 # CEH v13 | CCTv1 | CCA | ISO 27001 LA & ISMS Assoc. | Top 1% THM<br>
 
-Offensive Security Researcher and Penetration Tester focused on identifying high-impact vulnerabilities and executing complex Network Exploitation. I specialize in bridging the gap between Vulnerability Assessment and Garnishing Compliance through the lens of a Red Teamer
+## Offensive Security Researcher and Penetration Tester focused on identifying high-impact vulnerabilities and executing complex Network Exploitation. I specialize in bridging the gap between Vulnerability Assessment and Garnishing Compliance through the lens of a Red Teamer
 
 
 ## 🌐 Socials:
